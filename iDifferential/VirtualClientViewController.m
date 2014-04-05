@@ -35,6 +35,8 @@
 }
 
 
+
+
 @synthesize server;
 @synthesize numbersOfTransferLabel;
 @synthesize upDownSpeedLabel;
@@ -45,6 +47,7 @@
 @synthesize refreshButton;
 @synthesize torrentManager;
 @synthesize timer;
+
 
 
 #pragma mark - View lifecycle
